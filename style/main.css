@@ -133,5 +133,27 @@ footer div {
     justify-content: center;
     padding: 50px;
 }
+.contactus {
+    margin: 100px;
+}
+.contactus h3 {
+    text-align: center;
+    font-size: 34px;
+}
+.socialmedia {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+.socialmedia div {
+    padding: 30px;
+}
+.socialmedia div img {
+    padding: 20px 0;
+}
+.socialmedia div p {
+    font-size: 28px;
+}
 
   
