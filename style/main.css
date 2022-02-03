@@ -152,8 +152,9 @@ footer div {
 .socialmedia div img {
     padding: 20px 0;
 }
-.socialmedia div p {
+.socialmedia div a {
     font-size: 28px;
+    padding-top: 20px;
 }
 
   
