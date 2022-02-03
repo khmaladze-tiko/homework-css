@@ -115,5 +115,23 @@ footer div {
     border-bottom: 2px solid #a18937; 
 
 }
+.homesec {
+    padding: 50px;
+    text-align: center;
+}
+.homesec h4 {
+    font-size: 30px;
+    padding: 20px;
+    font-family: "Blush Script M7", "Lucida Handwriting", cursive;
+}
+.homesec h3 {
+    font-size: 34px;
+}
+.videorecipes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 50px;
+}
 
   
